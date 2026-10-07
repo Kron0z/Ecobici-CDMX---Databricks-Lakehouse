@@ -90,10 +90,10 @@ Number of snapshots
 
 
 Empty or null values
-+------------+
+
 |num_stations|
-+------------+
-+------------+
+|---|
+
 
 
 ## Next Steps
