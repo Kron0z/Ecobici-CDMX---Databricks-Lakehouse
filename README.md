@@ -81,14 +81,13 @@ A Python script downloads the GBFS feed with a timestamp in the file name, allow
 ### Verify Null or empty values and an accumulation of 4 snapshots in bronze layer has been done
 
 Number of snapshots
-+---+------------+-----+
 |ttl|last_updated|count|
-+---+------------+-----+
+|---|---|---|
 | 10|  1791339017|    3|
 | 10|  1791392144|    1|
 | 10|  1791342858|    2|
 | 10|  1791318543|    4|
-+---+------------+-----+
+
 
 Empty or null values
 +------------+
